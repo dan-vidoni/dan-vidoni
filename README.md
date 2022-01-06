@@ -1,6 +1,6 @@
 ### hi there 👋
 
-    🔭 currently working as software engineer full-time at @haufe.
+    🔭 software engineer @haufe
     😄 pronouns: he/him
     ⚡ fun fact: -_-
 
