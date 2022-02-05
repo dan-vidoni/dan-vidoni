@@ -2,8 +2,8 @@
 
     🔭 software engineer @haufe
     😄 pronouns: he/him
-    ⚡ fun fact: at 1/2 of things I'm left handed (eat with spoon, draw, table tennis) the other half, right handed (eat with fork and knife, write, basketball),
-                 it comes down to which hand I start learning a new activity with
+    ⚡ fun fact: at 1/2 of things I'm left handed (eat with spoon, draw, table tennis) the other half, right handed
+                 (eat with fork and knife, write, basketball), it mainly comes down to which hand I start learning a new activity with
 
 ## dunning-kruger scale
 ### slope of enlightenment
