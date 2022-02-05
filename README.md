@@ -2,7 +2,7 @@
 
     🔭 software engineer @haufe
     😄 pronouns: he/him
-    ⚡ fun fact: -_-
+    ⚡ fun fact: at 1/2 of things I'm lefthanded (eat, draw) the other half, righthanded (write, shoot a basketball), it comes down to which hand I start a new activity with
 
 ## dunning-kruger scale
 ### slope of enlightenment
